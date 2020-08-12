@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joselito_Passos)](https://twitter.com/joselito_Passos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselito-martinho-silva-passos-4491a0a1/)](https://www.linkedin.com/in/joselito-martinho-silva-passos-4491a0a1/)
+<a href="mailto:joselitomartinho@gmail"><img alt="Email" src="https://img.shields.io/badge/Email-joselitomartinho@gmail-blue?style=flat-square&logo=gmail"></a>
